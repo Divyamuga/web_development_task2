@@ -1,0 +1,45 @@
+.Nav{
+    /* padding:10px 16px;*/
+    width: 100%;
+    height: 90px;
+     background-color: rgb(78, 78, 202);
+     display: flex;
+ }
+ .Imglogo{
+     width: 70px;
+     height: 70px;
+     margin-left: 100px;
+     margin-top: 10px;
+ }
+ .NavList ul, li{
+     display: flex;
+     gap:20px;
+     text-align: center;
+     justify-content: center;
+     list-style: none;
+     align-items: center;
+     margin-top: 20px;
+     margin-left: 300px;
+     
+    
+ }
+ .NavList li{
+     margin-left: 50px;
+     list-style: none;
+     color: white;
+     font-size: 16px;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 500;
+ }
+ .Btnlogo{
+     padding:16px;
+     margin-left: 40px;
+     border: 1px solid;
+     border-radius: 90px;
+     
+ }
+ 
+ 
+ /* login Css */
+ 
+ 
